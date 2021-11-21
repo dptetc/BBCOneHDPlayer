@@ -1,8 +1,8 @@
 <h1 align="center">📺 BBC One HD Player</h1>
 
-<p align="center">
-
 <p align="right">Downloads in Releases 👉</p>
+
+<p align="center">
 
 <img src="https://img.shields.io/badge/bundled%20by-dartpower-blue.svg" >
 
@@ -23,7 +23,7 @@
 ---
 
 <p align="center">
-<img width="480" height="360" src="https://user-images.githubusercontent.com/2005369/142772535-839478ad-9efb-4031-abd9-078e74f274a3.gif">
+<img width="640" height="360" src="https://user-images.githubusercontent.com/2005369/142772535-839478ad-9efb-4031-abd9-078e74f274a3.gif">
 </p>
 
 # How to use
