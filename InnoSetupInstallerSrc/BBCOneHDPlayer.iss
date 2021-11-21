@@ -21,7 +21,7 @@ SolidCompression=yes
 UninstallDisplayIcon={uninstallexe}
 InternalCompressLevel=ultra
 CompressionThreads=2
-DiskSpanning=yes
+DiskSpanning=no
 DiskSliceSize=2100000000
 
 [Languages]
@@ -32,7 +32,6 @@ Name: "desktopicon"; Description: "{cm:CreateDesktopIcon}"; GroupDescription: "{
 
 [Files]
 Source: "..\BBCOneHDPlayer\*"; DestDir: "{app}"; Flags: ignoreversion recursesubdirs createallsubdirs sortfilesbyextension
-Source: "C:\Windows\Fonts\Tahoma.ttf"; DestDir: "{fonts}"; FontInstall: "Segoe UI"; Flags: onlyifdoesntexist uninsneveruninstall
 
 [Icons]
 Name: "{group}\BBC One HD Player"; Filename: "{app}\BBCOneHDPlayer.LauncherCPP.exe"; WorkingDir: "{app}";
@@ -40,7 +39,7 @@ Name: "{userdesktop}\BBC One HD Player"; Filename: "{app}\BBCOneHDPlayer.Launche
 Name: "{group}\{cm:UninstallProgram,BBC One HD Player}"; Filename: "{uninstallexe}"
 
 [Run]
-Description: "{cm:LaunchProgram, проигрыватель}"; Filename: "{app}\BBCOneHDPlayer.LauncherCPP.exe"; WorkingDir: "{app}"; Flags: nowait postinstall skipifsilent unchecked
+Description: "{cm:LaunchProgram, BBC One HD Player}"; Filename: "{app}\BBCOneHDPlayer.LauncherCPP.exe"; WorkingDir: "{app}"; Flags: nowait postinstall skipifsilent unchecked
 
 [UninstallDelete]
 Type: filesandordirs; Name: "{app}"
