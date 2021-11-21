@@ -1,37 +1,49 @@
-## Welcome to GitHub Pages
+<h1 align="center">📺 BBC One HD Player</h1>
 
-You can use the [editor on GitHub](https://github.com/dptetc/BBCOneHDPlayer/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+<p align="center">
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<p align="right">Downloads in Releases 👉</p>
 
-### Markdown
+<img src="https://img.shields.io/badge/bundled%20by-dartpower-blue.svg" >
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103" >
 
-```markdown
-Syntax highlighted code block
+<img src="https://img.shields.io/github/stars/dptetc/BBCOneHDPlayer.svg?style=flat">
 
-# Header 1
-## Header 2
-### Header 3
+<img src="https://img.shields.io/github/languages/top/dptetc/BBCOneHDPlayer.svg">
 
-- Bulleted
-- List
+<img src="https://img.shields.io/github/issues/dptetc/BBCOneHDPlayer.svg">
 
-1. Numbered
-2. List
+<img src="https://img.shields.io/github/downloads/dptetc/BBCOneHDPlayer/total.svg">
 
-**Bold** and _Italic_ and `Code` text
+</p>
 
-[Link](url) and ![Image](src)
+**Player bundle by _[DartPower](https://github.com/dartpower)_ Team.**
+
+---
+
+<p align="center">
+<img width="480" height="360" src="https://user-images.githubusercontent.com/2005369/142772535-839478ad-9efb-4031-abd9-078e74f274a3.gif">
+</p>
+
+# How to use
+
+```
+1. Download the bundle archive or installer from Releases tab
+2. Run installer or extract archive.
+3. Launch a bat-file or any of two EXEs (LauncherCS.exe or LauncherCPP.exe) 
+(CS version requies .NET Framework 4.8 installed on your system, CPP version requies latest C++ Redist)
+4. Watch
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+# How to bundle
 
-### Jekyll Themes
+```
+1. Download VLC and [Streamlink](https://github.com/streamlink/streamlink)
+2. Unpack VLC zip into bin folder streamlink
+3. Create folder named `portable` in bin.
+4. Launch with these parameters: `streamlink https://www.filmon.com/tv/bbc-one best`
+```
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dptetc/BBCOneHDPlayer/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+# Contributors and Testers
+[DartPower](https://github.com/dartpower)  
