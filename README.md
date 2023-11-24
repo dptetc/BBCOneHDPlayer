@@ -1,6 +1,6 @@
 <h1 align="center">📺 BBC One HD Player</h1>
 
-<p align="right">Downloads in Releases 👉</p>
+<p align="right"><a href="https://github.com/dptetc/BBCOneHDPlayer/releases">Downloads</a> in Releases 👉</p>
 
 <p align="center">
 
